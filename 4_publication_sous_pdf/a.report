@@ -1,0 +1,770 @@
+<?xml version="1.0"?>
+<xsl-fo:presentation output-format="fo" xmlns:xsl-fo="http://www.stylusstudio.com/xml_publishing/xsl-fo" version="2.0" signed="063E73544E7715913F3F853652DB23FD">
+	<namespaces>
+		<namespace prefix="xsi" uri="http://www.w3.org/2001/XMLSchema-instance" url="Notes.xml"/>
+		<namespace prefix="xsi1" uri="http://www.w3.org/2001/XMLSchema-instance" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml"/>
+	</namespaces>
+	<text>
+		<document>
+			<props>
+				<prop name="Background" value="aliceblue"/>
+				<prop name="Page Height" value="11in"/>
+				<prop name="Page Width" value="8.5in"/>
+				<prop name="Margin Left" value="0.6in"/>
+				<prop name="Margin Right" value="0.6in"/>
+				<prop name="Margin Top" value="0.79in"/>
+				<prop name="Margin Bottom" value="0.79in"/>
+			</props>
+		</document>
+		<decimal-format>
+			<props>
+				<prop name="Zero Digit" value="0"/>
+				<prop name="Digit" value="#"/>
+				<prop name="Decimal Separator" value="."/>
+				<prop name="Grouping Separator" value=","/>
+				<prop name="Pattern Separator" value=";"/>
+				<prop name="Minus Sign" value="-"/>
+				<prop name="Percent" value="%"/>
+				<prop name="Per mille" value="‰"/>
+				<prop name="Infinity" value="Infinity"/>
+				<prop name="NaN" value="NaN"/>
+			</props>
+		</decimal-format>
+		<props>
+			<prop name="Alignment" value="none"/>
+		</props>
+		<styles/>
+		<data xml:space="preserve">&lt;br&gt;@&lt;br&gt;</data>
+		<components>
+			<table position="1">
+				<table>
+					<props>
+						<prop name="Component Name" value="unknown"/>
+						<prop name="Width" value="100%"/>
+						<prop name="background-repeat" value="repeat"/>
+						<prop name="CellSpacing" value="1"/>
+						<prop name="Alignment" value="none"/>
+						<prop name="table-borders">
+							<props>
+								<prop name="table-border-style" value="outset"/>
+								<prop name="table-border-width" value="2"/>
+								<prop name="table-border-color" value="blue"/>
+								<prop name="table-border-left">
+									<props>
+										<prop name="table-border-color" value="blue"/>
+									</props>
+								</prop>
+								<prop name="table-border-right">
+									<props>
+										<prop name="table-border-color" value="blue"/>
+									</props>
+								</prop>
+								<prop name="table-border-top">
+									<props>
+										<prop name="table-border-color" value="blue"/>
+									</props>
+								</prop>
+							</props>
+						</prop>
+						<prop name="cell-borders">
+							<props>
+								<prop name="cell-border-style" value="inset"/>
+								<prop name="cell-border-width" value="2"/>
+								<prop name="cell-border-color" value="blue"/>
+							</props>
+						</prop>
+						<prop name="cell-paddings">
+							<props>
+								<prop name="cell-padding-width" value="2"/>
+							</props>
+						</prop>
+					</props>
+					<rows>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+						<row>
+							<props>
+								<prop name="Loop" context="unknown"/>
+							</props>
+						</row>
+					</rows>
+					<cols>
+						<column>
+							<props/>
+						</column>
+						<column>
+							<props/>
+						</column>
+						<column>
+							<props/>
+						</column>
+						<column>
+							<props/>
+						</column>
+					</cols>
+					<data>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">Code Module&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">designation Module&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">Session&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">Note/20&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module/@code_Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module/@code_Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Module">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Module"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">1&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="none"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="0" xpath="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml,,/Notes/Student/Note">
+											<props>
+												<prop name="XPath" url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml" xpath="/Notes/Student/Note"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+					</data>
+				</table>
+			</table>
+		</components>
+		<values/>
+	</text>
+	<datasources>
+		<datasource url="..\..\..\Downloads\Prjt_xml\1.Conversion_des _fichs_Excel_au_format_XML\Notes_Ginf2.xml"/>
+	</datasources>
+</xsl-fo:presentation>

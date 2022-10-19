@@ -1,0 +1,278 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE Filiere_Niveau SYSTEM "../2_validation_DTD_XSD/Professeur.dtd">
+<Filiere_Niveau nom_de_filiere ="GINF2">
+ 
+ <Professeur >
+  <FirstName>prenom1</FirstName>
+  <LastName>nom1</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere1  </nomMat>
+  <module>m1  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m21  </nomMat>
+  <module>m1  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000001</PhoneNum>
+  <Email>nom1@gmail.com</Email>
+  <departement>dep1</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom2</FirstName>
+  <LastName>nom2</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere2  </nomMat>
+  <module>m2  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m22  </nomMat>
+  <module>m2  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000002</PhoneNum>
+  <Email>nom2@gmail.com</Email>
+  <departement>dep2</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom3</FirstName>
+  <LastName>nom3</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere3  </nomMat>
+  <module>m3  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m23  </nomMat>
+  <module>m3  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000023</PhoneNum>
+  <Email>nom3@gmail.com</Email>
+  <departement>dep3</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom4</FirstName>
+  <LastName>nom4</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere4  </nomMat>
+  <module>m4  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000024</PhoneNum>
+  <Email>nom4@gmail.com</Email>
+  <departement>dep4</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom5</FirstName>
+  <LastName>nom5</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere5  </nomMat>
+  <module>m5  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000025</PhoneNum>
+  <Email>nom5@gmail.com</Email>
+  <departement>dep5</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom6</FirstName>
+  <LastName>nom6</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere6  </nomMat>
+  <module>m6  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000026</PhoneNum>
+  <Email>nom6@gmail.com</Email>
+  <departement>dep6</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom7</FirstName>
+  <LastName>nom7</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere7  </nomMat>
+  <module>m7  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000027</PhoneNum>
+  <Email>nom7@gmail.com</Email>
+  <departement>dep7</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom8</FirstName>
+  <LastName>nom8</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere8  </nomMat>
+  <module>m8  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000028</PhoneNum>
+  <Email>nom8@gmail.com</Email>
+  <departement>dep8</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom9</FirstName>
+  <LastName>nom9</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere9  </nomMat>
+  <module>m9  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000031</PhoneNum>
+  <Email>nom9@gmail.com</Email>
+  <departement>dep9</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom10</FirstName>
+  <LastName>nom10</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere10  </nomMat>
+  <module>m10  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m24  </nomMat>
+  <module>m3  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000018</PhoneNum>
+  <Email>nom10@gmail.com</Email>
+  <departement>dep10</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom11</FirstName>
+  <LastName>nom11</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere11  </nomMat>
+  <module>m11  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m25  </nomMat>
+  <module>m4  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000009</PhoneNum>
+  <Email>nom11@gmail.com</Email>
+  <departement>dep11</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom12</FirstName>
+  <LastName>nom12</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere12  </nomMat>
+  <module>m12  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m26  </nomMat>
+  <module>m5  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000003</PhoneNum>
+  <Email>nom12@gmail.com</Email>
+  <departement>dep12</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom13</FirstName>
+  <LastName>nom13</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere13  </nomMat>
+  <module>m13  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m27  </nomMat>
+  <module>m6  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000004</PhoneNum>
+  <Email>nom13@gmail.com</Email>
+  <departement>dep13</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom14</FirstName>
+  <LastName>nom14</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere14  </nomMat>
+  <module>m14  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000005</PhoneNum>
+  <Email>nom14@gmail.com</Email>
+  <departement>dep14</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom15</FirstName>
+  <LastName>nom15</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere15  </nomMat>
+  <module>m15  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000006</PhoneNum>
+  <Email>nom15@gmail.com</Email>
+  <departement>dep15</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom16</FirstName>
+  <LastName>nom16</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere16  </nomMat>
+  <module>m16  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m28  </nomMat>
+  <module>m7  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000007</PhoneNum>
+  <Email>nom16@gmail.com</Email>
+  <departement>dep16</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom17</FirstName>
+  <LastName>nom17</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere17  </nomMat>
+  <module>m17  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m29  </nomMat>
+  <module>m8  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000008</PhoneNum>
+  <Email>nom17@gmail.com</Email>
+  <departement>dep17</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom18</FirstName>
+  <LastName>nom18</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere18  </nomMat>
+  <module>m18  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m30  </nomMat>
+  <module>m9  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000010</PhoneNum>
+  <Email>nom18@gmail.com</Email>
+  <departement>dep18</departement>
+ </Professeur>
+ 
+ <Professeur >
+  <FirstName>prenom19</FirstName>
+  <LastName>nom19</LastName>
+ <MatiereEnseigne>
+  <nomMat>Matiere19  </nomMat>
+  <module>m19  </module>
+ </MatiereEnseigne>
+ <MatiereEnseigne>
+  <nomMat>m31  </nomMat>
+  <module>m10  </module>
+ </MatiereEnseigne>
+  <PhoneNum>600000020</PhoneNum>
+  <Email>nom19@gmail.com</Email>
+  <departement>dep19</departement>
+ </Professeur>
+ 
+</Filiere_Niveau>
+ 

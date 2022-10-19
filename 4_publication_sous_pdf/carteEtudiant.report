@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<xsl-fo:presentation output-format="fo" xmlns:xsl-fo="http://www.stylusstudio.com/xml_publishing/xsl-fo" version="2.0" signed="C7D03A7FAB735301D2B6BAED5C69FD8F">
+	<text>
+		<document>
+			<props>
+				<prop name="Page Height" value="11in"/>
+				<prop name="Page Width" value="8.5in"/>
+				<prop name="Margin Left" value="0.6in"/>
+				<prop name="Margin Right" value="0.6in"/>
+				<prop name="Margin Top" value="0.79in"/>
+				<prop name="Margin Bottom" value="0.79in"/>
+			</props>
+		</document>
+		<decimal-format>
+			<props>
+				<prop name="Zero Digit" value="0"/>
+				<prop name="Digit" value="#"/>
+				<prop name="Decimal Separator" value="."/>
+				<prop name="Grouping Separator" value=","/>
+				<prop name="Pattern Separator" value=";"/>
+				<prop name="Minus Sign" value="-"/>
+				<prop name="Percent" value="%"/>
+				<prop name="Per mille" value="‰"/>
+				<prop name="Infinity" value="Infinity"/>
+				<prop name="NaN" value="NaN"/>
+			</props>
+		</decimal-format>
+		<props>
+			<prop name="Alignment" value="none"/>
+		</props>
+		<styles/>
+		<data xml:space="preserve">@&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;@&lt;br&gt;&lt;br&gt;&lt;br&gt;</data>
+		<components>
+			<text position="0">
+				<text>
+					<props>
+						<prop name="Alignment" value="center"/>
+					</props>
+					<styles>
+						<fontSizes>
+							<size from="0" to="71" size="12"/>
+							<size from="72" to="91" size="14"/>
+							<size from="92" to="94" size="12"/>
+							<size from="95" to="118" size="14"/>
+						</fontSizes>
+						<bolds>
+							<bold from="0" to="118" value="true"/>
+						</bolds>
+						<colors>
+							<color from="0" to="112" value="16711680"/>
+							<color from="113" to="116" value="16711680"/>
+						</colors>
+					</styles>
+					<data xml:space="preserve">@&lt;br&gt;@&lt;br&gt;</data>
+					<components>
+						<text position="0">
+							<text>
+								<props>
+									<prop name="Alignment" value="right"/>
+								</props>
+								<styles>
+									<fontSizes>
+										<size from="0" to="73" size="12"/>
+										<size from="74" to="93" size="14"/>
+										<size from="94" to="96" size="12"/>
+										<size from="97" to="120" size="14"/>
+									</fontSizes>
+									<bolds>
+										<bold from="0" to="120" value="true"/>
+									</bolds>
+									<colors>
+										<color from="0" to="118" value="16711680"/>
+									</colors>
+								</styles>
+								<data xml:space="preserve">@@@&lt;br&gt;</data>
+								<components>
+									<text position="0">
+										<text>
+											<props>
+												<prop name="Alignment" value="left"/>
+											</props>
+											<styles/>
+											<data xml:space="preserve">@&lt;br&gt;</data>
+											<components>
+												<text position="0">
+													<text>
+														<props>
+															<prop name="Alignment" value="right"/>
+														</props>
+														<styles/>
+														<data xml:space="preserve">@@&lt;br&gt;</data>
+														<components>
+															<text position="0">
+																<text>
+																	<props>
+																		<prop name="Alignment" value="right"/>
+																	</props>
+																	<styles/>
+																	<data xml:space="preserve">@&lt;br&gt;</data>
+																	<components>
+																		<text position="0">
+																			<text>
+																				<props>
+																					<prop name="Alignment" value="right"/>
+																				</props>
+																				<styles/>
+																				<data xml:space="preserve">@&lt;br&gt;</data>
+																				<components>
+																					<image position="0">
+																						<icon>
+																							<props>
+																								<prop name="Width" value="108"/>
+																								<prop name="Height" value="70"/>
+																								<prop name="Source" value="file://c:\Users\Elitebook\Downloads\uae.jpeg"/>
+																							</props>
+																						</icon>
+																					</image>
+																				</components>
+																				<values/>
+																			</text>
+																		</text>
+																	</components>
+																	<values/>
+																</text>
+															</text>
+															<text position="1">
+																<text>
+																	<props>
+																		<prop name="Alignment" value="left"/>
+																	</props>
+																	<styles/>
+																	<data xml:space="preserve">@&lt;br&gt;</data>
+																	<components>
+																		<image position="0">
+																			<icon>
+																				<props>
+																					<prop name="Width" value="140"/>
+																					<prop name="Height" value="70"/>
+																					<prop name="Source" value="file://C:\Users\Elitebook\Documents\NetBeansProjects\exceltoxml\ENSA-TANGER-800x377.png"/>
+																				</props>
+																			</icon>
+																		</image>
+																	</components>
+																	<values/>
+																</text>
+															</text>
+														</components>
+														<values/>
+													</text>
+												</text>
+											</components>
+											<values/>
+										</text>
+									</text>
+									<text position="1">
+										<text>
+											<props>
+												<prop name="Alignment" value="left"/>
+											</props>
+											<styles/>
+											<data xml:space="preserve">&lt;br&gt;</data>
+											<components/>
+											<values/>
+										</text>
+									</text>
+									<text position="2">
+										<text>
+											<props>
+												<prop name="Alignment" value="center"/>
+											</props>
+											<styles>
+												<fontSizes>
+													<size from="0" to="116" size="12"/>
+													<size from="117" to="136" size="14"/>
+													<size from="137" to="139" size="12"/>
+													<size from="140" to="163" size="14"/>
+												</fontSizes>
+												<bolds>
+													<bold from="0" to="163" value="true"/>
+												</bolds>
+												<colors>
+													<color from="0" to="161" value="16711680"/>
+												</colors>
+											</styles>
+											<data xml:space="preserve">Ecole Nationale des Sciences AppliquéesTanger&lt;br&gt;</data>
+											<components/>
+											<values/>
+										</text>
+									</text>
+								</components>
+								<values/>
+							</text>
+						</text>
+						<text position="2">
+							<text>
+								<props>
+									<prop name="Alignment" value="center"/>
+								</props>
+								<styles>
+									<fontSizes>
+										<size from="0" to="88" size="12"/>
+										<size from="89" to="108" size="14"/>
+										<size from="109" to="111" size="12"/>
+										<size from="112" to="131" size="14"/>
+									</fontSizes>
+									<bolds>
+										<bold from="0" to="131" value="true"/>
+									</bolds>
+									<colors>
+										<color from="0" to="111" value="16711680"/>
+										<color from="114" to="129" value="16711680"/>
+									</colors>
+								</styles>
+								<data xml:space="preserve">CARTE D'ETUDIANT&lt;br&gt;</data>
+								<components/>
+								<values/>
+							</text>
+						</text>
+					</components>
+					<values/>
+				</text>
+			</text>
+			<table position="5">
+				<table>
+					<props>
+						<prop name="Width" value="100%"/>
+						<prop name="background-repeat" value="repeat"/>
+						<prop name="CellSpacing" value="3"/>
+						<prop name="Alignment" value="none"/>
+						<prop name="table-borders">
+							<props>
+								<prop name="table-border-style" value="none"/>
+								<prop name="table-border-width" value="0"/>
+								<prop name="table-border-left">
+									<props>
+										<prop name="table-border-style" value="none"/>
+									</props>
+								</prop>
+								<prop name="table-border-right">
+									<props>
+										<prop name="table-border-style" value="none"/>
+									</props>
+								</prop>
+								<prop name="table-border-top">
+									<props>
+										<prop name="table-border-style" value="none"/>
+									</props>
+								</prop>
+							</props>
+						</prop>
+						<prop name="cell-borders">
+							<props>
+								<prop name="cell-border-style" value="none"/>
+								<prop name="cell-border-width" value="2"/>
+							</props>
+						</prop>
+						<prop name="cell-paddings">
+							<props>
+								<prop name="cell-padding-width" value="2"/>
+							</props>
+						</prop>
+					</props>
+					<rows>
+						<row>
+							<props/>
+						</row>
+						<row>
+							<props/>
+						</row>
+						<row>
+							<props/>
+						</row>
+					</rows>
+					<cols>
+						<column>
+							<props/>
+						</column>
+						<column>
+							<props/>
+						</column>
+					</cols>
+					<data>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+										<prop name="Size" value="14"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">CNE&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="left"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve"> @&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="1" xpath="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml,,/Filiere_Niveau/Student/@CNE">
+											<props>
+												<prop name="XPath" url="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml" xpath="/Filiere_Niveau/Student/@CNE"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+										<prop name="Size" value="14"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">               Nom Complet&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="left"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve"> @@&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="1" xpath="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml,,/Filiere_Niveau/Student/FirstName">
+											<props>
+												<prop name="XPath" url="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml" xpath="/Filiere_Niveau/Student/FirstName"/>
+											</props>
+										</value>
+										<value position="2" xpath="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml,,/Filiere_Niveau/Student/LastName">
+											<props>
+												<prop name="XPath" url="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml" xpath="/Filiere_Niveau/Student/LastName"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+						<row>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="center"/>
+										<prop name="Size" value="14"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve">                        Date de naissance&lt;br&gt;</data>
+									<components/>
+									<values/>
+								</text>
+							</cell>
+							<cell>
+								<props>
+									<prop name="background-repeat" value="repeat"/>
+									<prop name="vertical-align" value="middle"/>
+								</props>
+								<text>
+									<props>
+										<prop name="Alignment" value="left"/>
+									</props>
+									<styles/>
+									<data xml:space="preserve"> @&lt;br&gt;</data>
+									<components/>
+									<values>
+										<value position="1" xpath="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml,,/Filiere_Niveau/Student/BirthDate">
+											<props>
+												<prop name="XPath" url="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml" xpath="/Filiere_Niveau/Student/BirthDate"/>
+											</props>
+										</value>
+									</values>
+								</text>
+							</cell>
+						</row>
+					</data>
+				</table>
+			</table>
+		</components>
+		<values/>
+	</text>
+	<datasources>
+		<datasource url="..\1_conversion_de_docs_excel_en_xml_java\Student_GINF2.xml"/>
+	</datasources>
+</xsl-fo:presentation>

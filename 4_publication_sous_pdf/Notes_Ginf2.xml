@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="../3_publication_des_pages_html/Notes.xsl" type ="text/xsl"?>
+
+<Notes >
+<Student>
+		<FirstName>chaimae</FirstName>
+		<LastName>ghazi</LastName>
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>18</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>19</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>17.5</Note>
+		<Module code_Module="GINF41">Administration et programmation systeme</Module>
+		<Note>14.5</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>12</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>15</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>19.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>16.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>18.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>19</Note>
+		
+	</Student>
+	<Student>
+		<FirstName>jamila</FirstName>
+      <LastName>Fajr</LastName>  
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>8</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>12</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>11.5</Note>
+		<Module code_Module="GINF41">Administration et programmation systeme</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>12</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>12</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>9</Note>
+		
+	</Student>
+	<Student>
+		<FirstName>hasnae</FirstName>
+		<LastName>Yahyawi</LastName>
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>9.22</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>7.5</Note>
+		<Module code_Module="GINF34">Administration et programmation systeme</Module>
+		<Note>10.5</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>9</Note>
+	
+	</Student>
+	<Student>
+		<FirstName >soumaya</FirstName>
+		<LastName>Bssillat</LastName>
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>15.5</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>8.22</Note>
+		<Module code_Module="GINF34">Administration et programmation systeme</Module>
+		<Note>10.22</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>9</Note>
+		
+	</Student>
+	<Student>
+      <FirstName>mohammed</FirstName>
+      <LastName>Benali</LastName>
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>15.5</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>18.5</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>18.22</Note>
+		<Module code_Module="GINF34">Administration et programmation systeme</Module>
+		<Note>10.22</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>17.5</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>9</Note>
+	</Student>
+		<Student>
+		<FirstName>hichame</FirstName>
+        <LastName>Yajour</LastName>
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>15.5</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>18.5</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>18.22</Note>
+		<Module code_Module="GINF34">Administration et programmation systeme</Module>
+		<Note>17.22</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>17.5</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>9</Note>
+		
+	</Student>
+		<Student>
+		<FirstName>Abdelillah</FirstName>
+       <LastName>Hadraf</LastName>
+		<Module code_Module="GINF31">POO et XML </Module>
+		<Note>15.5</Note>
+		<Module code_Module="GINF32">Modelisation et IHM</Module>
+		<Note>18.5</Note>
+		<Module code_Module="GINF33">Bases de donnees avancees</Module>
+		<Note>18.22</Note>
+		<Module code_Module="GINF34">Administration et programmation systeme</Module>
+		<Note>20</Note>
+		<Module code_Module="GINF35">Qualite et approche processus</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF36">Langues et communication 2</Module>
+		<Note>17.5</Note>
+		<Module code_Module="GINF37">Technologies distribuees</Module>
+		<Note>13.5</Note>
+		<Module code_Module="GINF38">Bases de donnees avancees 2 et Cloud</Module>
+		<Note>9.5</Note>
+		<Module code_Module="GINF39">Traitement de l'image</Module>
+		<Note>12.5</Note>
+		<Module code_Module="GINF40">Prge declarative et TAV</Module>
+		<Note>14</Note>
+		<Module code_Module="GINF41">Securite et Cryptographie</Module>
+		<Note>11.8</Note>
+		<Module code_Module="GINF42">Management de l'entreprise 2</Module>
+		<Note>9</Note>
+		
+	</Student>
+	
+</Notes>

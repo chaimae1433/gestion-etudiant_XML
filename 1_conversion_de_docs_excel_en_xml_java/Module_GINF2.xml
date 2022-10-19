@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE Filiere_Niveau SYSTEM "../2_validation_DTD_XSD/Module.dtd">
+
+<Filiere_Niveau nom_de_filiere ="GINF2">
+ 
+    <Module >
+      <nomModule>POO et XML </nomModule>
+      <departement>SIC</departement>
+      <sousModule>Prge orientee objet : java</sousModule>
+      <sousModule>XML et Applications</sousModule>
+      <coordinateur>cord1</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Modelisation et IHM</nomModule>
+      <departement>MI</departement>
+      <sousModule>Modelisation orientee objet UML</sousModule>
+      <sousModule>Interaction Homme Machine</sousModule>
+      <coordinateur>cord2</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Bases de donnees avancees</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Optimisation et Qualite</sousModule>
+      <sousModule>Administration et Securite</sousModule>
+      <sousModule>base de donnee distribue</sousModule>
+      <coordinateur>cord3</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Administration et programmation systeme</nomModule>
+      <departement>MI</departement>
+      <sousModule>Administration Sys</sousModule>
+      <sousModule>Programmation Sys</sousModule>
+      <coordinateur>cord4</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Qualite et approche processus</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Assurance controle quilite</sousModule>
+      <sousModule>Cycle de vie et Methodes agiles</sousModule>
+      <coordinateur>cord5</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Langues et communication 2</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Espagnol 2</sousModule>
+      <sousModule>Anglais professionnel</sousModule>
+      <sousModule>Techniques de communication</sousModule>
+      <coordinateur>cord6</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Technologies distribuees</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Introduction a J2EE</sousModule>
+      <sousModule>Programmation en C</sousModule>
+      <coordinateur>cord7</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Bases de donnees avancees 2 et Cloud</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Gestion des donnees complexes</sousModule>
+      <sousModule>Gestion des donnees distribuees</sousModule>
+      <sousModule>Cloud computing</sousModule>
+      <coordinateur>cord8</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Traitement de l'image</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Traitement d'image</sousModule>
+      <sousModule>Vision numerique</sousModule>
+      <sousModule>Processus Stochastique</sousModule>
+      <coordinateur>cord9</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Prge declarative et TAV</nomModule>
+      <departement>MI</departement>
+      <sousModule>Prge declarative</sousModule>
+      <sousModule>Technique algorithmique</sousModule>
+      <coordinateur>cord10</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Securite et Cryptographie</nomModule>
+      <departement>MI</departement>
+      <sousModule>Securite des sys</sousModule>
+      <sousModule>Cryptographie</sousModule>
+      <coordinateur>cord11</coordinateur>
+    </Module>
+ 
+    <Module >
+      <nomModule>Management de l'entreprise 2</nomModule>
+      <departement>SIC</departement>
+      <sousModule>Economie et Compta 2</sousModule>
+      <sousModule>Projets Collectifs et Stages</sousModule>
+      <sousModule>Management de projet</sousModule>
+      <coordinateur>cord12</coordinateur>
+    </Module>
+ 
+</Filiere_Niveau>
+ 

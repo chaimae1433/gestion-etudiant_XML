@@ -1,0 +1,11 @@
+<!ELEMENT Filiere_Niveau (Professeur+)>
+<!ATTLIST Filiere_Niveau nom_de_filiere (AP1|AP2|GINF1|GIL1|G3EI1|GSTR1|GSEA1|GINF2|GIL2|G3EI2|GSTR2|GSEA2|GINF3|GIL3|G3EI3|GSTR3|GSEA3) #REQUIRED> 
+<!ELEMENT Professeur (FirstName, LastName, MatiereEnseigne+, PhoneNum+, Email+, departement)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT MatiereEnseigne (nomMat, module)>
+<!ELEMENT nomMat (#PCDATA)>
+<!ELEMENT module (#PCDATA)>
+<!ELEMENT PhoneNum (#PCDATA)>
+<!ELEMENT Email ANY>
+<!ELEMENT departement ANY>

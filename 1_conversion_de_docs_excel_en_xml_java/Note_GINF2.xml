@@ -1,0 +1,114 @@
+<?xml version="1.0"  standalone="no"?>
+<!DOCTYPE Filiere_Niveau SYSTEM "../2_validation_DTD_XSD/Note.DTD">
+<?xml-stylesheet href="../3_publication_des_pages_html/Notes.xsl" type ="text/xsl"?>
+<Filiere_Niveau nom_de_filiere ="GINF2">
+ 
+ <module CodeModule="GINF31">
+  <student CNE="KB113243">
+    <nom>Ghazi</nom>
+    <prenom>chaymae</prenom>
+  <NoteSousModule CodeSousModule="java">19</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">20</NoteSousModule>
+  <note>19.5</note>
+ </student>
+  <student CNE="KB113244">
+    <nom>Yahyawi</nom>
+    <prenom>hasnae</prenom>
+  <NoteSousModule CodeSousModule="java">10</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">11</NoteSousModule>
+  <note>10.5</note>
+ </student>
+  <student CNE="KB113245">
+    <nom>Bssillat</nom>
+    <prenom>soumaya</prenom>
+  <NoteSousModule CodeSousModule="java">11</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">12</NoteSousModule>
+  <note>11.5</note>
+ </student>
+  <student CNE="KB113246">
+    <nom>Ben ali</nom>
+    <prenom>mohammed</prenom>
+  <NoteSousModule CodeSousModule="java">12</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">13</NoteSousModule>
+  <note>12.5</note>
+ </student>
+  <student CNE="KB113247">
+    <nom>Yajour</nom>
+    <prenom>hichame</prenom>
+  <NoteSousModule CodeSousModule="java">13</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">14</NoteSousModule>
+  <note>13.5</note>
+ </student>
+  <student CNE="KB113248">
+    <nom>Hadraf</nom>
+    <prenom>abd el illah</prenom>
+  <NoteSousModule CodeSousModule="java">14</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">15</NoteSousModule>
+  <note>14.5</note>
+ </student>
+  <student CNE="KB113249">
+    <nom>Kaabi</nom>
+    <prenom>abd samad</prenom>
+  <NoteSousModule CodeSousModule="java">15</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">16</NoteSousModule>
+  <note>15.5</note>
+ </student>
+  <student CNE="KB113250">
+    <nom>Ziyach</nom>
+    <prenom>souaad</prenom>
+  <NoteSousModule CodeSousModule="java">16</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">17</NoteSousModule>
+  <note>16.5</note>
+ </student>
+  <student CNE="KB113251">
+    <nom>Ben atiya</nom>
+    <prenom>yahya</prenom>
+  <NoteSousModule CodeSousModule="java">17</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">18</NoteSousModule>
+  <note>17.5</note>
+ </student>
+  <student CNE="KB113252">
+    <nom>Hadad</nom>
+    <prenom>siraj</prenom>
+  <NoteSousModule CodeSousModule="java">18</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">10</NoteSousModule>
+  <note>14</note>
+ </student>
+  <student CNE="KB113253">
+    <nom>Fajr</nom>
+    <prenom>jamila</prenom>
+  <NoteSousModule CodeSousModule="java">19</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">11</NoteSousModule>
+  <note>15</note>
+ </student>
+  <student CNE="KB113254">
+    <nom>Hakimi</nom>
+    <prenom>ishaa</prenom>
+  <NoteSousModule CodeSousModule="java">20</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">12</NoteSousModule>
+  <note>16</note>
+ </student>
+  <student CNE="KB113255">
+    <nom>Hadadi</nom>
+    <prenom>fayrouz</prenom>
+  <NoteSousModule CodeSousModule="java">19</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">13</NoteSousModule>
+  <note>16</note>
+ </student>
+  <student CNE="KB113256">
+    <nom>Ben charki</nom>
+    <prenom>joumana</prenom>
+  <NoteSousModule CodeSousModule="java">18,5</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">14</NoteSousModule>
+  <note>16.25</note>
+ </student>
+  <student CNE="KB113257">
+    <nom>Ennssiri</nom>
+    <prenom>ziyad</prenom>
+  <NoteSousModule CodeSousModule="java">5</NoteSousModule>
+  <NoteSousModule CodeSousModule ="xml">5</NoteSousModule>
+  <note>5</note>
+ </student>
+ </module>
+ 
+</Filiere_Niveau>

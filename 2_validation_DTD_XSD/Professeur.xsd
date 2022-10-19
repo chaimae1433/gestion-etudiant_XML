@@ -1,0 +1,42 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Filiere_Niveau">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="Prof"/>
+            </xs:sequence>
+            <xs:attribute name="Filiere_Niveau" use="required" type="xs:NCName"/>  
+        </xs:complexType>      
+    </xs:element>    
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z]+"></xs:pattern>
+            <xs:whiteSpace value="preserve"></xs:whiteSpace>
+            <xs:maxLength value="20" />
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:element name="Prof">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="FirstName" type="nameType"></xs:element>
+                <xs:element name="LastName" type="nameType"></xs:element>
+                <xs:element name="Td" type="xs:string"></xs:element>
+                <xs:element name="MatiereEnseigne">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nomMat" type="nameType"></xs:element>
+                            <xs:element name="module" type="nameType"></xs:element>
+                        </xs:sequence> 
+                    </xs:complexType>    
+                </xs:element>
+                <xs:element name="PhoneNum">            
+                    <xs:simpleType>
+                        <xs:restriction base="xs:NMTOKEN">
+                            <xs:pattern value="[0][6 7][0-9]{8}"></xs:pattern>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="Email" type="xs:string"></xs:element>
+            </xs:sequence>                 
+        </xs:complexType>
+    </xs:element>  
+</xs:schema>

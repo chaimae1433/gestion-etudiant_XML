@@ -1,0 +1,30 @@
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Filiere_Niveau">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="module"/>
+            </xs:sequence>
+            <xs:attribute name="Filiere_Niveau" use="required" type="xs:NCName"/>  
+        </xs:complexType>      
+    </xs:element> 
+
+    <xs:element name="module">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nomModule" type="xs:string"/>
+                <xs:element name="departement" type="xs:string"/>
+                <xs:element name="coordinateur" type="xs:string"/>
+                <xs:element  minOccurs="0" maxOccurs="3" ref="sousModule"/>
+            </xs:sequence>     
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="sousModule">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nomSsM" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

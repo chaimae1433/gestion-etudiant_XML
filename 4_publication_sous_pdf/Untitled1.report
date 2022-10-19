@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<xsl-fo:presentation output-format="fo" xmlns:xsl-fo="http://www.stylusstudio.com/xml_publishing/xsl-fo" version="2.0" signed="F712023A27BAA3ED64C1067DB4F13368">
+	<text>
+		<document>
+			<props>
+				<prop name="Page Height" value="11in"/>
+				<prop name="Page Width" value="8.5in"/>
+				<prop name="Margin Left" value="0.6in"/>
+				<prop name="Margin Right" value="0.6in"/>
+				<prop name="Margin Top" value="0.79in"/>
+				<prop name="Margin Bottom" value="0.79in"/>
+			</props>
+		</document>
+		<decimal-format>
+			<props>
+				<prop name="Zero Digit" value="0"/>
+				<prop name="Digit" value="#"/>
+				<prop name="Decimal Separator" value="."/>
+				<prop name="Grouping Separator" value=","/>
+				<prop name="Pattern Separator" value=";"/>
+				<prop name="Minus Sign" value="-"/>
+				<prop name="Percent" value="%"/>
+				<prop name="Per mille" value="‰"/>
+				<prop name="Infinity" value="Infinity"/>
+				<prop name="NaN" value="NaN"/>
+			</props>
+		</decimal-format>
+		<props>
+			<prop name="Alignment" value="none"/>
+		</props>
+		<styles/>
+		<data xml:space="preserve">&lt;br&gt;</data>
+		<components/>
+		<values/>
+	</text>
+	<datasources/>
+</xsl-fo:presentation>

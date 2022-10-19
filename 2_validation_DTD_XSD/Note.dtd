@@ -1,0 +1,11 @@
+<!ELEMENT Filiere_Niveau (module+)>
+<!ATTLIST Filiere_Niveau Nom (AP1|AP2|GINF1|GIL1|G3EI1|GSTR1|GSEA1|GINF2|GIL2|G3EI2|GSTR2|GSEA2|GINF3|GIL3|G3EI3|GSTR3|GSEA3) #REQUIRED>
+<!ELEMENT module (student+)>
+<!ATTLIST module CodeModule ID #REQUIRED>
+<!ELEMENT student (nom, prenom, NoteSousModule*, note)>
+<!ATTLIST Student CNE ID #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT NoteSousModule (#PCDATA)>
+<!ATTLIST NoteSousModule CodeSousModule CDATA #REQUIRED>
+<!ELEMENT note (#PCDATA)>

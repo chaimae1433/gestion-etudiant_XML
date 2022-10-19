@@ -1,0 +1,62 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="Filiere_Niveau">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="module"/>
+            </xs:sequence>
+            <xs:attribute name="nom_de_filiere" use="required" type="xs:NCName"/>  
+        </xs:complexType>      
+    </xs:element> 
+
+    <xs:element name="module">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="student"/>
+                <xs:element name="NoteSousModule" type="typeSousModule" minOccurs="0" maxOccurs="3" />
+                <xs:element name="note" type="noteType"/>
+				<xs:attribute name="CodeModule" use="required" type="xs:NCName"/> 
+            </xs:sequence>     
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-z A-Z]+"></xs:pattern>
+            <xs:whiteSpace value="preserve"></xs:whiteSpace>
+            <xs:maxLength value="20" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="CNEType">
+        <xs:restriction base="xs:NMTOKEN">
+            <xs:pattern value="[A-Z][0-9]{8}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType  name="noteType">
+        <xs:restriction  base="xs:float">
+            <xs:minInclusive  value="0"/>
+            <xs:maxInclusive  value="20"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType  name="typeSousModule">
+        <xs:simpleContent >
+            <xs:extension base="xs:float">
+                <xs:attribute  name="CodeSousModule" use="required" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:element name="student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nom" type="nameType"/>
+                <xs:element name="nom" type="nameType"/>
+            </xs:sequence>     
+            <xs:attribute name="CNE" use="required" type="CNEType"/>  
+        </xs:complexType>
+    </xs:element> 
+
+</xs:schema>

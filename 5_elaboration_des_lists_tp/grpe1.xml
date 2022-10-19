@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<Filiere_Niveau nom_de_filiere ="GINF2_tp1">
+<Student CNE="KB23456">
+      <FirstName>chaymae</FirstName>
+      <LastName>Ghazi</LastName>
+      <BirthDate>01/01/2000</BirthDate>
+      <PhoneNum>600000001</PhoneNum>
+      <Email>nom1@gmail.com</Email>
+    </Student><Student CNE="KB23457">
+      <FirstName>hasnae</FirstName>
+      <LastName>Yahyawi</LastName>
+      <BirthDate>02/01/2000</BirthDate>
+      <PhoneNum>600000002</PhoneNum>
+      <Email>nom2@gmail.com</Email>
+    </Student><Student CNE="KB23458">
+      <FirstName>soumaya</FirstName>
+      <LastName>Bssillat</LastName>
+      <BirthDate>03/01/2000</BirthDate>
+      <PhoneNum>600000023</PhoneNum>
+      <Email>nom3@gmail.com</Email>
+    </Student><Student CNE="KB23459">
+      <FirstName>mohammed</FirstName>
+      <LastName>Ben ali</LastName>
+      <BirthDate>04/01/2000</BirthDate>
+      <PhoneNum>600000024</PhoneNum>
+      <Email>nom4@gmail.com</Email>
+    </Student><Student CNE="KB23460">
+      <FirstName>hichame</FirstName>
+      <LastName>Yajour</LastName>
+      <BirthDate>05/01/2000</BirthDate>
+      <PhoneNum>600000025</PhoneNum>
+      <Email>nom5@gmail.com</Email>
+    </Student><Student CNE="KB23461">
+      <FirstName>abd el illah</FirstName>
+      <LastName>Hadraf</LastName>
+      <BirthDate>06/01/2000</BirthDate>
+      <PhoneNum>600000026</PhoneNum>
+      <Email>nom6@gmail.com</Email>
+    </Student><Student CNE="KB23462">
+      <FirstName>abd samad</FirstName>
+      <LastName>Kaabi</LastName>
+      <BirthDate>07/01/2000</BirthDate>
+      <PhoneNum>600000027</PhoneNum>
+      <Email>nom7@gmail.com</Email>
+    </Student>
+	</Filiere_Niveau>

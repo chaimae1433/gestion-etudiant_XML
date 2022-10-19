@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<xsl-fo:presentation output-format="fo" xmlns:xsl-fo="http://www.stylusstudio.com/xml_publishing/xsl-fo" version="2.0" signed="DF6007C461A7A746BD42EA626964B0C7">
+	<text>
+		<document>
+			<props>
+				<prop name="Page Height" value="11in"/>
+				<prop name="Page Width" value="8.5in"/>
+				<prop name="Margin Left" value="0.0in"/>
+				<prop name="Margin Right" value="0.6in"/>
+				<prop name="Margin Top" value="0.79in"/>
+				<prop name="Margin Bottom" value="0.79in"/>
+			</props>
+		</document>
+		<decimal-format>
+			<props>
+				<prop name="Zero Digit" value="0"/>
+				<prop name="Digit" value="#"/>
+				<prop name="Decimal Separator" value="."/>
+				<prop name="Grouping Separator" value=","/>
+				<prop name="Pattern Separator" value=";"/>
+				<prop name="Minus Sign" value="-"/>
+				<prop name="Percent" value="%"/>
+				<prop name="Per mille" value="‰"/>
+				<prop name="Infinity" value="Infinity"/>
+				<prop name="NaN" value="NaN"/>
+			</props>
+		</decimal-format>
+		<props>
+			<prop name="Alignment" value="center"/>
+		</props>
+		<styles>
+			<fontSizes>
+				<size from="0" to="29" size="20"/>
+				<size from="30" to="59" size="10"/>
+			</fontSizes>
+			<colors>
+				<color from="0" to="28" value="16711680"/>
+			</colors>
+		</styles>
+		<data xml:space="preserve">@&lt;br&gt;@&lt;br&gt;&lt;br&gt;Attestation de réussite&lt;br&gt;&lt;br&gt;@&lt;br&gt;&lt;br&gt;@&lt;br&gt;&lt;br&gt;@@de CNE @&lt;br&gt;&lt;br&gt;&lt;br&gt;@&lt;br&gt;&lt;br&gt;@&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;@&lt;br&gt;@&lt;br&gt;</data>
+		<components>
+			<image position="0">
+				<icon>
+					<props>
+						<prop name="Width" value="276px"/>
+						<prop name="Height" value="100px"/>
+						<prop name="Source" value="file://c:\Users\Elitebook\Documents\NetBeansProjects\exceltoxml\ENSA-TANGER-800x377.png"/>
+					</props>
+				</icon>
+			</image>
+			<text position="2">
+				<text>
+					<props>
+						<prop name="Alignment" value="none"/>
+					</props>
+					<styles>
+						<fontSizes>
+							<size from="0" to="56" size="10"/>
+						</fontSizes>
+					</styles>
+					<data xml:space="preserve">Ecole National De Sciences Sppliques tanger le 08/02/2022&lt;br&gt;</data>
+					<components/>
+					<values/>
+				</text>
+			</text>
+			<text position="30">
+				<text>
+					<props>
+						<prop name="Alignment" value="right"/>
+					</props>
+					<styles/>
+					<data xml:space="preserve">&lt;br&gt;</data>
+					<components/>
+					<values/>
+				</text>
+			</text>
+			<text position="33">
+				<text>
+					<props>
+						<prop name="Alignment" value="left"/>
+					</props>
+					<styles>
+						<fontSizes>
+							<size from="0" to="81" size="12"/>
+						</fontSizes>
+					</styles>
+					<data xml:space="preserve">je,soussigné(e) , ElouahabMonsieur Le directeu ,adjoin ,atteste que l'étudiant(e):&lt;br&gt;</data>
+					<components/>
+					<values/>
+				</text>
+			</text>
+			<text position="36">
+				<text>
+					<props>
+						<prop name="Alignment" value="none"/>
+					</props>
+					<styles/>
+					<data xml:space="preserve">@&lt;br&gt;</data>
+					<components/>
+					<values>
+						<value position="0" xpath="Student_GINF2.xml,,/Filiere_Niveau/Student/FirstName">
+							<props>
+								<prop name="XPath" url="Student_GINF2.xml" xpath="/Filiere_Niveau/Student/FirstName"/>
+							</props>
+						</value>
+					</values>
+				</text>
+			</text>
+			<text position="49">
+				<text>
+					<props>
+						<prop name="Alignment" value="left"/>
+					</props>
+					<styles>
+						<fontSizes>
+							<size from="0" to="32" size="12"/>
+						</fontSizes>
+					</styles>
+					<data xml:space="preserve">a suivi et terminé la formation :&lt;br&gt;</data>
+					<components/>
+					<values/>
+				</text>
+			</text>
+			<text position="57">
+				<text>
+					<props>
+						<prop name="Alignment" value="right"/>
+					</props>
+					<styles/>
+					<data xml:space="preserve">Attestation en Date 08/02.2022&lt;br&gt;</data>
+					<components/>
+					<values/>
+				</text>
+			</text>
+			<text position="59">
+				<text>
+					<props>
+						<prop name="Alignment" value="left"/>
+					</props>
+					<styles>
+						<colors>
+							<color from="0" to="29" value="16711680"/>
+						</colors>
+					</styles>
+					<data xml:space="preserve">signature Du Directeur Adjoint&lt;br&gt;</data>
+					<components/>
+					<values/>
+				</text>
+			</text>
+		</components>
+		<values>
+			<value position="37" xpath="Student_GINF2.xml,,/Filiere_Niveau/Student/LastName">
+				<props>
+					<prop name="XPath" url="Student_GINF2.xml" xpath="/Filiere_Niveau/Student/LastName"/>
+				</props>
+			</value>
+			<value position="45" xpath="Student_GINF2.xml,,/Filiere_Niveau/Student/@CNE">
+				<props>
+					<prop name="XPath" url="Student_GINF2.xml" xpath="/Filiere_Niveau/Student/@CNE"/>
+				</props>
+			</value>
+			<value position="52" xpath="Student_GINF2.xml,,/Filiere_Niveau/@nom_de_filiere">
+				<props>
+					<prop name="XPath" url="Student_GINF2.xml" xpath="/Filiere_Niveau/@nom_de_filiere"/>
+				</props>
+			</value>
+		</values>
+	</text>
+	<datasources>
+		<datasource url="Student_GINF2.xml"/>
+	</datasources>
+</xsl-fo:presentation>
